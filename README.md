@@ -1,4 +1,5 @@
 # finalprojemiz
-##bu projede kişinin vki sine uygun diyet listesi oluşturduk.
+## bu projede kişinin vki sine uygun diyet listesi oluşturduk.
+
 
 
